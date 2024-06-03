@@ -1,0 +1,66 @@
+---
+title: "recipes"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+# Einleitung zu den Rezepten
+
+Die folgenden Rezepte sind sehr lecker und es macht Spaß sie auszuprobieren. Die Gerichte sind sehr unterschiedlich: von etwas *Süßem zum Kaffee* bis zu der *herzhaften Hauptspeise*.
+
+Hier folgt das erste Rezept:
+
+## Eierreis
+
+**Zutaten**
+
+-   Gekochter Reis
+
+-   Eier
+
+-   Rohrzucker
+
+-   Frühlingszwiebeln, normale gehen auch
+
+-   Knoblauchzehe
+
+-   Öl, Sojasauce, Fischsauce
+
+-   Chiliflocken
+
+-   Gurke
+
+-   Optional: Hähnchenfleisch, Garnelen oder weiteres Gemüse
+
+**Zubereitung**
+
+1.  Falls Hähnchenfleisch oder Garnelen reinsollen: Zuerst anbraten. Die Garnelen zur Seite stellen, warm halten und am Ende auf den Reis legen. Wenn es Hähnchenfleisch ist: einfach in der Pfanne lassen.
+2.  Reis mit Zwiebeln in Öl anbraten.
+3.  Zucker, Soja- und Fischsauce in die Pfanne geben.
+4.  Dann den Reis an die Außenränder der Pfanne schieben und die Eier in die Mitte geben.
+5.  Wenn die Eier anfangen zu stocken, dann wie Rührei verrühren und mit dem Reis vermischen. Während des Bratens Gurke in Scheiben schneiden.
+6.  Abschmecken mit Zucker, Soja-, Fischsauce und Chiliflocken.
+7.  Reis auf den Teller geben und die Gurken daneben.
+
+*Man kann auch eine Art Gemüsereis daraus machen, vor allem Erbsen, Möhren und Lauch schmecken sehr gut darin.*
