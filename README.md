@@ -1,1 +1,4 @@
-This project is about recipes.
+
+# Recipe book
+
+This project is about *recipes*.
