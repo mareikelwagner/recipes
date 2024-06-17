@@ -1,4 +1,4 @@
 
-# Recipe book
+# Rezeptbuch
 
-This project is about *recipes*. Different recipes will be collected for our seminar. 
+Dieses Projekt dient dem Sammeln von *Rezepten*. Die enthaltenen Rezepte sind sehr lecker und es macht Spaß, sie auszuprobieren. Die Gerichte sind sehr unterschiedlich: von etwas *Süßem zum Kaffee* bis zu der *herzhaften Hauptspeise*.
