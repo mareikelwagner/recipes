@@ -1,0 +1,27 @@
+---
+title: "Kartoffelsalat 2"
+format: html
+editor: visual
+---
+
+## Kartoffelsalat 2
+
+**Zutaten:**
+
+-   Ein Sack Kartoffeln
+
+-   Ein Glas Saure Gurken
+
+-   Mayo
+
+-   Eine Zwiebel
+
+-   Salz und Pfeffer
+
+**Zubereitung:**
+
+1.  Kartoffeln kochen und hinterher pellen.
+2.  Saure Gurken und Zwiebeln in kleine Stücke schneiden. Achtung: Gurkenwasser behalten!
+3.  Kartoffeln in Scheiben schneiden und in eine Schüssel tun. Gurken und Zwiebeln dazu tun.
+4.  Gurkenwasser auf die Kartoffeln gießen. Über Nacht ziehen lassen.
+5.  Am nächsten Tag Mayo unterheben und mit Salz und Pfeffer abschmecken.
